@@ -1,0 +1,8 @@
+.bang {
+    height: 800px;
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid black;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3);
+}
+
